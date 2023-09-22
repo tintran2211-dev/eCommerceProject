@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ECom-23.API.props" />
+</Project>
