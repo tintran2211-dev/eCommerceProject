@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DIY Project\\eCommerceProject\\BE\\ECom-23\\ECom-23.Application\\ECom-23.Application.csproj": {}
+    "/media/jameosx/Downloads/DIY Project/eCommerceProject/BE/ECom-23/ECom-23.Application/ECom-23.Application.csproj": {}
   },
   "projects": {
-    "D:\\DIY Project\\eCommerceProject\\BE\\ECom-23\\ECom-23.Application\\ECom-23.Application.csproj": {
+    "/media/jameosx/Downloads/DIY Project/eCommerceProject/BE/ECom-23/ECom-23.Application/ECom-23.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DIY Project\\eCommerceProject\\BE\\ECom-23\\ECom-23.Application\\ECom-23.Application.csproj",
+        "projectUniqueName": "/media/jameosx/Downloads/DIY Project/eCommerceProject/BE/ECom-23/ECom-23.Application/ECom-23.Application.csproj",
         "projectName": "ECom-23.Application",
-        "projectPath": "D:\\DIY Project\\eCommerceProject\\BE\\ECom-23\\ECom-23.Application\\ECom-23.Application.csproj",
-        "packagesPath": "C:\\Users\\SpaceOSX\\.nuget\\packages\\",
-        "outputPath": "D:\\DIY Project\\eCommerceProject\\BE\\ECom-23\\ECom-23.Application\\obj\\",
+        "projectPath": "/media/jameosx/Downloads/DIY Project/eCommerceProject/BE/ECom-23/ECom-23.Application/ECom-23.Application.csproj",
+        "packagesPath": "/home/jameosx/.nuget/packages/",
+        "outputPath": "/media/jameosx/Downloads/DIY Project/eCommerceProject/BE/ECom-23/ECom-23.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SpaceOSX\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jameosx/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
